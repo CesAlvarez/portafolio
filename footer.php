@@ -7,6 +7,7 @@
         <nav class="footer-nav">
             <a href="">Contatos</a> |
             <a href="">Terminos y Condiciones</a>
+        <span>Todos los derechos reservados - &copy</span>
 
         </nav>
     </div>
