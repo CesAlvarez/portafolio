@@ -81,3 +81,15 @@ body {
     font-size: 1em;
     color: #fff;
 }
+.footer-nav {
+    padding: 10px 0;
+    color: #fff;
+}
+.footer-nav a{
+    text-decoration: none;
+    color: #fff;
+    padding: 0 10px;
+}
+.footer-nav a:hover{
+    text-decoration: underline;
+}
