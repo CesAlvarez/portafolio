@@ -50,7 +50,10 @@
         <article class="portafolio-item">
         
         </article>
-
+        
+        <article class="portafolio-item">
+        
+        </article>
     </div>
 
 </section>
